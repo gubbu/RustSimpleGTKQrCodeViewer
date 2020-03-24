@@ -1,0 +1,4 @@
+data/org.simon.qr_code_shower.desktop.in
+data/org.simon.qr_code_shower.appdata.xml.in
+data/org.simon.qr_code_shower.gschema.xml
+src/window.ui

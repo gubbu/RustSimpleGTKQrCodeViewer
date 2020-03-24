@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="qrcode_shower">
+	<schema id="org.simon.qr_code_shower" path="/org/simon/qr_code_shower/">
+	</schema>
+</schemalist>  
